@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Kitty-Rolodex/static/css/main.4d35e33f.chunk.css",
+    "main.js": "/Kitty-Rolodex/static/js/main.1a1aad13.chunk.js",
+    "main.js.map": "/Kitty-Rolodex/static/js/main.1a1aad13.chunk.js.map",
+    "runtime-main.js": "/Kitty-Rolodex/static/js/runtime-main.1293500b.js",
+    "runtime-main.js.map": "/Kitty-Rolodex/static/js/runtime-main.1293500b.js.map",
+    "static/js/2.3dfd3ca0.chunk.js": "/Kitty-Rolodex/static/js/2.3dfd3ca0.chunk.js",
+    "static/js/2.3dfd3ca0.chunk.js.map": "/Kitty-Rolodex/static/js/2.3dfd3ca0.chunk.js.map",
+    "static/js/3.a75f96e1.chunk.js": "/Kitty-Rolodex/static/js/3.a75f96e1.chunk.js",
+    "static/js/3.a75f96e1.chunk.js.map": "/Kitty-Rolodex/static/js/3.a75f96e1.chunk.js.map",
+    "index.html": "/Kitty-Rolodex/index.html",
+    "static/css/main.4d35e33f.chunk.css.map": "/Kitty-Rolodex/static/css/main.4d35e33f.chunk.css.map",
+    "static/js/2.3dfd3ca0.chunk.js.LICENSE.txt": "/Kitty-Rolodex/static/js/2.3dfd3ca0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1293500b.js",
+    "static/js/2.3dfd3ca0.chunk.js",
+    "static/css/main.4d35e33f.chunk.css",
+    "static/js/main.1a1aad13.chunk.js"
+  ]
+}
